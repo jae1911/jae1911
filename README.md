@@ -3,7 +3,7 @@
  - [Website](https://jae.fi)
  - [Matrix](https://matrix.to/#/@me:jae.fi)
 
-We also make the search engine [Wolfeye API](https://github.com/Jaedotmoe/wolfeye-api).
+Why 1911? Hint: search hexadecimal.
 
 All software is IPv6-ready.
 
