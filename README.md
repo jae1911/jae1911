@@ -9,4 +9,4 @@ Why 1911? Hint: search hexadecimal.
 All software is IPv6-ready.
 
 Misc software:
- - Rust metadata scrubber: https://github.com/jae1911/exiftool-rs
+ - [jae1911/exiftool-rs](https://github.com/jae1911/exiftool-rs) - A EXIF data scrubber that is faster than Python and Perl implementations.
