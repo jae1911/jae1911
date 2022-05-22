@@ -12,3 +12,7 @@ All software is IPv6-ready.
 
 Misc software:
  - [jae1911/exiftool-rs](https://github.com/jae1911/exiftool-rs) - A EXIF data scrubber that is faster than Python and Perl implementations.
+
+Services:
+ - [Nitter](https://twitter.jae.su)
+ - [Reddit Account Search](https://reddit.jae.su)
