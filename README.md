@@ -12,6 +12,8 @@ All software is IPv6-ready.
 
 Misc software:
  - [jae1911/exiftool-rs](https://github.com/jae1911/exiftool-rs) - A EXIF data scrubber that is faster than Python and Perl implementations.
+ - [jae1911/camfinder](https://github.com/jae1911/camfinder) - A public webcam finder made with Python and exploiting the Shodan API.
+ - [jae1911/gh-bot](https://github.com/jae1911/gh-bot) - My personal Matrix webhook bot made with vanilla Python.
 
 Services:
  - [Nitter](https://twitter.jae.su)
