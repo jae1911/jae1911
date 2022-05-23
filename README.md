@@ -25,6 +25,6 @@ Websites:
 Random Gists:
  - [jae1911/gists/kicker.py](https://gist.github.com/jae1911/2d9f104c08cfa9b17d58238fb1f0ee6e) - A simple script to kick spambots from a Matrix room using a glob.
 
-Services:
+Public services:
  - [Nitter](https://twitter.jae.su)
  - [Reddit Account Search](https://reddit.jae.su)
