@@ -29,3 +29,5 @@ Public services:
  - [Nitter](https://twitter.jae.su)
  - [Reddit Account Search](https://reddit.jae.su)
  - [LibReddit](https://rd.jae.su/)
+ - [PrivateBin](https://bin.jae.fi)
+ - [Piped](https://yt.jae.fi)
