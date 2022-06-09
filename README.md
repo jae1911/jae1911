@@ -1,5 +1,7 @@
 ### Jae
 
+# Hello, are you a recruiter? I'm looking for a job, [if you have anything, contact me :)](mailto:me@jae.fi)
+
 ♥️ Matrix, IPv6
 
  - [Website](https://jae.fi)
