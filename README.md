@@ -1,8 +1,16 @@
-### Jae
+ ```
+ ▄▄▄██▀▀▀▄▄▄      ▓█████ 
+   ▒██  ▒████▄    ▓█   ▀ 
+   ░██  ▒██  ▀█▄  ▒███    ♥️ Matrix, IPv6, C64 beeps'n boops
+▓██▄██▓ ░██▄▄▄▄██ ▒▓█  ▄ 
+ ▓███▒   ▓█   ▓██▒░▒████▒
+ ▒▓▒▒░   ▒▒   ▓▒█░░░ ▒░ ░
+ ▒ ░▒░    ▒   ▒▒ ░ ░ ░  ░
+ ░ ░ ░    ░   ▒      ░   
+ ░   ░        ░  ░   ░  ░
+ ```
 
 # Hello, are you a recruiter? I'm looking for a job, [if you have anything, contact me :)](mailto:me@jae.fi)
-
-♥️ Matrix, IPv6, C64 beeps'n boops
 
  - [Website](https://jae.fi)
  - Matrix: matrix:roomid/dn0home-v9:jae.fi (alternatives: #home:jae.fi | #dn0home:matrix.org)
