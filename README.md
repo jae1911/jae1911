@@ -41,3 +41,4 @@ Public services:
  - [LibReddit](https://rd.jae.su/)
  - [PrivateBin](https://bin.jae.fi)
  - [Piped](https://yt.jae.fi)
+ - [Keyoxide (with proxy)](https://keys.jae.fi/)
