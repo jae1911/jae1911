@@ -14,7 +14,7 @@
 
  - [Website](https://jae.fi)
  - Matrix: matrix:roomid/dn0home-v9:jae.fi (alternatives: #home:jae.fi | #dn0home:matrix.org)
- - [GPG](https://keyoxide.org/hkp/E925CA48B1CF851298321784025F43E0BE5056C0)
+ - [GPG](https://keys.jae.fi/hkp/E925CA48B1CF851298321784025F43E0BE5056C0)
 
 Why 1911? Hint: search hexadecimal.
 
