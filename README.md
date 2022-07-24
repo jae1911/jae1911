@@ -40,3 +40,4 @@ Public services:
  - [PrivateBin](https://bin.jae.fi)
  - [Piped](https://yt.jae.fi)
  - [Keyoxide (with proxy)](https://keys.jae.fi/)
+ - [ProxiTok](https://tok.jae.fi)
