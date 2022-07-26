@@ -41,3 +41,4 @@ Public services:
  - [Piped](https://yt.jae.fi)
  - [Keyoxide (with proxy)](https://keys.jae.fi/)
  - [ProxiTok](https://tok.jae.fi)
+ - [SearXNG](https://search.jae.fi/)
