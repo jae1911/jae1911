@@ -42,6 +42,7 @@ Public services:
  - [Keyoxide (with proxy)](https://keys.jae.fi/)
  - [ProxiTok](https://tok.jae.fi)
  - [SearXNG](https://search.jae.fi/)
+ - [Wikiless](https://wiki.jae.fi)
  
 [Sponsor me on LiberaPay](https://liberapay.com/Jae/).  
 ![](https://img.shields.io/liberapay/receives/Jae.svg?logo=liberapay)
