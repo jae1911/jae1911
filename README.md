@@ -46,6 +46,7 @@ Public services:
  - [Rimgo](https://imgur.jae.fi/)
  - [Excalidraw](https://draw.jae.fi/)
  - [Hydrogen (Matrix client)](https://hydrogen.jae.fi/)
+ - [SimplyTranslate](https://translate.jae.fi/)
  
 [Sponsor me on LiberaPay](https://liberapay.com/Jae/).  
 ![](https://img.shields.io/liberapay/receives/Jae.svg?logo=liberapay)
