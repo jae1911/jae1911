@@ -20,6 +20,3 @@ All software is IPv6-ready.
 
 # GITHUB IS NOW DEPRECATED
 # FOLLOW ME ON [Gitea](https://git.jae.fi/jae)
- 
-[Sponsor me on LiberaPay](https://liberapay.com/Jae/).  
-![](https://img.shields.io/liberapay/receives/Jae.svg?logo=liberapay)
