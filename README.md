@@ -19,4 +19,4 @@ Why 1911? Hint: search hexadecimal.
 All software is IPv6-ready.
 
 # GITHUB IS NOW DEPRECATED
-# FOLLOW ME ON [SourceHut]([https://git.jae.fi/jae](https://sr.ht/~jae/))
+# FOLLOW ME ON [SourceHut](https://sr.ht/~jae/)
