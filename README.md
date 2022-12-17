@@ -10,9 +10,8 @@
  ░   ░        ░  ░   ░  ░
  ```
 
- - [Website](https://jae.fi)
+ - [Website](https://777.tf)
  - Matrix: matrix:roomid/RrYMsLnLJiFQnQtnJf:jae.fi?via=jae.fi&amp;via=pikaviestin.fi (alternatives: #home:jae.fi | #dn0home:matrix.org)
- - [GPG](https://jae.pm)
 
 Why 1911? Hint: search hexadecimal.
 
