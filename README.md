@@ -1,4 +1,4 @@
-![Jae looking to the right, in light with its eyes closed, with the text Jae, Software developer, systems administrator, 3D artist](https://github.com/jae1911/jae1911/assets/76598503/0ee9f291-f1d9-41d6-8779-2b14a511c1f7)
+![Jae looking to the right, in light with its eyes closed, with the text Jae, Software developer, systems administrator, 3D artist](https://github.com/jae1911/jae1911/assets/76598503/da661a78-1145-477a-a1cd-f55762f702dd)
 
 <h3 align="center">Software developer</h3>
 
