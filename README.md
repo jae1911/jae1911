@@ -2,8 +2,8 @@
 
 <h3 align="center">Software developer</h3>
 
+- My portfolio [https://j4.lc](https://j4.lc)
 - 📝 My blog [https://777.tf/blog/](https://777.tf/blog/)
-
 - 📫 How to reach me **jae@777.tf**
 
 <h3 align="left">Connect with me:</h3>
