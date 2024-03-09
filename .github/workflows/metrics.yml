@@ -24,6 +24,7 @@ jobs:
           base: header, metadata, repositories, community, activity
           repositories_forks: true
           plugin_isocalendar: yes
-          plugin_achivements: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: A
           plugin_rss: yes
           plugin_rss_source: "777.tf/blog/index.xml"
