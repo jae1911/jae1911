@@ -22,6 +22,7 @@ jobs:
           config_timezone: Europe/Helsinki
           template: terminal
           base: header, metadata, repositories, community, activity
+          committer_branch: metrics-renders
           repositories_forks: true
           plugin_isocalendar: yes
           plugin_achievements: yes
