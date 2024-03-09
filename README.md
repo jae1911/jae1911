@@ -4,6 +4,8 @@
     <img alt="" src="https://raw.githubusercontent.com/jae1911/jae1911/metrics-renders/github-metrics.svg">
 </p>
 
+<h2 align="center">Most of my projects now live <a href="https://g.j4.lc/explore">on my GitLab</a></h2>
+
 <h3 align="center">Senior consultant</h3>
 
 - My portfolio [https://j4.lc](https://j4.lc)
