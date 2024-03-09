@@ -27,4 +27,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: A
           plugin_rss: yes
-          plugin_rss_source: "777.tf/blog/index.xml"
+          plugin_rss_source: "https://777.tf/blog/index.xml"
