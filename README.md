@@ -3,5 +3,5 @@
 <h3 align="center">Senior consultant</h3>
 
 - My portfolio [https://j4.lc](https://j4.lc)
-- 📝 My blog [https://b.j4.lc/](https://g.j4.lc/)
-- 📫 How to reach me **j@j4.lc**
+- My blog [https://b.j4.lc/](https://b.j4.lc/)
+- How to reach me **j@j4.lc**
